@@ -23,10 +23,6 @@ MSDSE: predicting drug side effects based on multi-scale feature and deep multi-
 - torch=1.11.0+cu113
 - torchaudio=0.11.0+cu113
 - torchvision=0.12.0+cu113  
-Use the following command to install all dependencies. 
-```
-    pip install requirement.txt
-```
 ## Usage
 *Example Usage*
 ```
